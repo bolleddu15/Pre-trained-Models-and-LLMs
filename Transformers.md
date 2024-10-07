@@ -1,4 +1,4 @@
-## Importance of Fine tuning on User own Data : 
+## Building Production-Ready RAG Applications:
 
 Fix the model by creating a data pipeline to add context into the prompt. Understand the paradigms of retrieval augmentation and fine-tuning for language models. Learn about building a QA system using data ingestion and querying components. Explore lower-level components to understand data ingestion and querying processes. Address challenges with naive RAG (retrieval-augmented generation) applications, such as poor response quality. Improve retrieval performance by optimizing data storage and the pipeline. Enhance the embedding representation for better performance. Implement advanced retrieval methods like reranking and recursive retrieval. Incorporate metadata filtering to add structured context to text chunks. Experiment with small to big retrieval methods for more precise results.
 
