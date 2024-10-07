@@ -1,6 +1,12 @@
 # Pre-trained-Models-and-LLMs
 In a world of Large language models everywhere, how to build the Sequence models and pre-trained models using transformers and NLP technologies.  
 
+1. Architecture: Transformer models, attention mechanisms, etc.?
+2. Applications: Text generation, language translation, chatbots, etc.?
+3. Training: Data requirements, optimization methods, etc.?
+4. Ethics: Bias, fairness, safety concerns?
+5. State-of-the-art: Latest advancements, models like myself?
+
 ## Transformers and Sequence Models 
 Fine-Tuning Pre-trained Models
 What is the difference between pre-training and fine-tuning in NLP? Pre-training is training a model on a large dataset for general language understanding. Fine-tuning adjusts the pre-trained model on a smaller, task-specific dataset to perform better on a specific task.
